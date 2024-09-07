@@ -1,2 +1,2 @@
-# rust-http
-Create http server with Rust
+# rust-http server
+Build http server with Rust
